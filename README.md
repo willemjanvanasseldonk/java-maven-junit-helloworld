@@ -1,4 +1,4 @@
-# A Java/Maven/JUnit HelloWorld example - WJvA
+# A Java/Maven/JUnit HelloWorld example - WJvA 1
 
 A „Hello World!” sample written in Java using Maven for the build, that showcases a few very simple tests.
 
